@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="enterValue">Enter value</string>
+    <string name="emptyValue">Empty default</string>
+    <string-array name="listOfVaults">
+        <item>USD - Американський долар</item>
+        <item>EUR - Європейський євро</item>
+        <item>GBP - Англійський фунт</item>
+        <item>PLN - Польський злотий</item>
+    </string-array>
+
+</resources>
